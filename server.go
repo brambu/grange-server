@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/xaviershay/grange"
+	"github.com/brambu/grange"
 	"github.com/xaviershay/statsd" // For https://github.com/quipo/statsd/pull/9
 	"gopkg.in/v1/yaml"
 	"io/ioutil"
